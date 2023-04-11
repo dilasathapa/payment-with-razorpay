@@ -1,0 +1,15 @@
+#t-shirt-child{
+    display: flex;
+justify-content: space-evenly;
+}
+
+#btnr{
+    padding: 5px;
+    color: #fff;
+    background-color: rgb(32, 32, 203);
+    cursor: pointer;
+}
+
+#t-parent{
+    margin: 5% ;
+}
