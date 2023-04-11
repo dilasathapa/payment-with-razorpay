@@ -17,7 +17,7 @@ var instance = new Razorpay({
     key_secret: 'y3W45cPSqA7YTSAIPUeJMilE'
 })
 
-app.post("/verification", async(req, res) => {
+app.post("/orders/pay", async(req, res) => {
     const secret = '23456789';
 
     console.log("datato send", req.body)
