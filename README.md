@@ -14,9 +14,6 @@
  <h3>ask you to save your card for future payments</h3>
 <img src="https://snipboard.io/sjBLSH.jpg" alt="card"/>
 
- <h3>ask you to save your card for future payments</h3>
-<img src="https://snipboard.io/sjBLSH.jpg" alt="card"/>
-
 <h3>loads your bank details</h3>
 <img src="https://snipboard.io/IKirHT.jpg" alt="load"/>
 
