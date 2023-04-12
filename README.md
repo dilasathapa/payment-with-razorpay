@@ -2,4 +2,4 @@
 
 ---------------------------------
 
-<h1> You'll see a button to <span color="black"> pay with Razorpay</span> </h1>
+<h1> You'll see a button to <span> <i> pay with Razorpay</i></span> </h1>
