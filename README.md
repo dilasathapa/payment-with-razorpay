@@ -26,8 +26,8 @@
 <h3>meanwhile payment is in progress</h3>
 <img src="https://snipboard.io/DTa4XU.jpg" alt="load"/>
 
-<h3>after a successful payment this page appears</h3>
+<h3>after a successful payment a PAYMENT SUCCESSFUL page appears</h3>
 <img src="https://snipboard.io/DCkjHo.jpg" alt="success"/>
 
 ------------------------------
-# A successful payment is done 
+# #A successful payment is done 
